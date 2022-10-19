@@ -9,7 +9,6 @@
 <a href="https://fb.com/harshu.g.jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kunaldhongade99" height="30" width="40" /></a>
 <a href="https://instagram.com/harshu_jain1008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunaldhongade99" height="30" width="40" /></a>
 <a href="https://snapchat.com/harshujain.108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="kunaldhongade99" height="30" width="40" /></a>
- <a href="https://telegram.com/HarshuGhodke108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="kunaldhongade99" height="30" width="40" /></a>
 
 </p>
 </div>
