@@ -1,4 +1,4 @@
-<img width= 100% src="https://th.bing.com/th/id/R.3ac7eb39e8ee61ff9e0e42f2f5792930?rik=MgrZl8Xqwxu1IQ&riu=http%3a%2f%2fpavbca.com%2fwalldb%2foriginal%2fb%2ff%2fd%2f115598.jpg&ehk=ozWg2J94kayjiJXoZi%2fQp0vBTObpRJE4G9n4fC1h7EA%3d&risl=&pid=ImgRaw&r=0">
+<img width= 100% src="https://prod-discovery.edx-cdn.org/media/programs/card_images/e0de6882-c5d1-43f3-99e0-17e386489dca-9c3bda2df48f.jpg">
 <h1 align="center"> 𝙷𝚒 👋 𝙸'𝚖 𝙷𝚊𝚛𝚜𝚑 𝙶𝚑𝚘𝚍𝚔𝚎 </h1>
 <h3 align="center"> 𝙰 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝙵𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊    </h3>
 <h3 align="left">  𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎  :</h3>
