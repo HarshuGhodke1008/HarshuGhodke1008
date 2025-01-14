@@ -23,17 +23,9 @@ Hi there! 👋 I'm **Harsh Ghodke**, a passionate developer with expertise in bu
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 Software Development
 
-### **Visa Processing System**
-- Developed a streamlined visa application platform with **Java**, **JSP**, and **MySQL**.
-- Created an intuitive interface for users and robust administrative tools.
-- **Role:** System Architect
-
-### **Medical Chatbot and Emergency System**
-- Built a chatbot using **NLP** and **AI** for disease prediction and healthcare assistance.
-- Integrated **MySQL** for efficient data storage.
-- **Role:** Data Analyst
+![Software Development](https://via.placeholder.com/800x400?text=Software+Development+Image)
 
 ---
 
@@ -47,13 +39,6 @@ Hi there! 👋 I'm **Harsh Ghodke**, a passionate developer with expertise in bu
 - **Cloud Computing** with Firebase & AWS
 - Advanced **React.js** and **TypeScript**
 - **AI & NLP** for dynamic applications
-
----
-
-## 🏆 Highlights
-- Passion for continuous learning and contributing to meaningful projects.
-- Strong foundation in **web technologies** and **software development**.
-- Eager to collaborate with innovative teams.
 
 ---
 
