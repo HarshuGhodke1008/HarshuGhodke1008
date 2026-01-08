@@ -9,8 +9,7 @@
 ---
 
 ## 🧰 Skills
-- Data: Excel, SQL, Power BI, Python (pandas)
-- Concepts: Data cleaning, reporting, KPI tracking, basic statistics
+- Concepts: Data cleaning, reporting,basic statistics
 - Tools: Git/GitHub, Figma
 
 
