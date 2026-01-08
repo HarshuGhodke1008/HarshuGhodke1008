@@ -13,3 +13,4 @@
 - Tools: Git/GitHub, Figma
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=HarshuGhodke1008)](https://github.com/ryo-ma/github-profile-trophy)
