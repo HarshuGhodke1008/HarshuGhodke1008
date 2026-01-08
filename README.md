@@ -14,3 +14,6 @@
 
 ##
 [[trophy](https://github-profile-trophy.vercel.app/?username=HarshuGhodke1008)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🔥 Current GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshuGhodke1008&theme=dark&hide_border=true)](https://github.com/HarshuGhodke1008)
